@@ -1,0 +1,90 @@
+
+<?php 
+/*1----------------------- ok
+$v = 5;
+
+echo "$v";  
+*/
+
+/* 2--------------------- ok 
+$nome1 = "guilherme";
+$nome2 = "alice";
+$idade1 = 15;
+$idade2 = 20;
+$soma = $idade1 + $idade2;
+
+echo "$soma";
+*/
+
+/*3--------------------- ok 
+$nome1 = "guilherme";
+$nome2 = "alice";
+$idade1 = 15;
+$idade2 = 20;
+$soma = $idade1 + $idade2;
+
+echo " A soma  das idades de $nome1 e $nome2 é $soma onde cada xxxxxxx corresponde aos nomes e a soma das idades"
+*/
+
+/*4------------------- (nao terminado)
+$va= 5;
+$vb= 10;
+echo " $va  $vb"
+
+$va= 10;
+$vb= 5;
+echo " $vb  $va"
+*/
+
+/*5--------------------- ok
+$a= 5;
+$b= 20;
+$c= 2;
+
+$resultado = ($a-$b)*$c;
+
+echo $resultado;
+*/
+
+/*6------------------------ ok
+$fahrenheit = 32;
+$centigrados = ($fahrenheit - 32) * 5 /9;
+
+echo $centigrados
+*/
+
+/* 7 --------------------- ok mas acho que foi passado errado
+$distancia = 520;
+$km = 12;
+$gasolina = 1.50;
+
+$combustivel = $distancia * $km; 
+$valor = $combustivel * $gasolina;
+
+echo "maria vai abastecer $combustivel L e vai gastar $$valor";
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*  8 ----------------------------- ok
+$segundos = 5000; 
+echo gmdate("H:i:s", $segundos);
+*/
+
+
+
+
+
+
+
+?>
